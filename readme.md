@@ -12,7 +12,7 @@ based on [nord-sublime-text](https://github.com/arcticicestudio/nord-sublime-tex
 
 ```r
 rstudioapi::addTheme(
-  themePath = "https://raw.githubusercontent.com/edavidaja/nord-rstudio/master/Nord.rstheme",
+  themePath = "https://raw.githubusercontent.com/bradyajohnston/nord-rstudio/master/Nord.rstheme",
   apply = TRUE
 )
 ```
